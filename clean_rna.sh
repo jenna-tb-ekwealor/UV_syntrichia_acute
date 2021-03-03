@@ -26,10 +26,13 @@
 module load java
 
 mkdir clean
-for file in *.fastq; do
-	samplebname=$(basename "$file" .fastq)
-	java -jar /global/home/groups/fc_phylodiv/scripts/trimmomatic-0.30.jar SE -phred33 \
-	"$file" \
-	"$directory"clean/"$samplebname"_clean.fastq  \
+for sample in *min*/; do
+    samplebname=$(basename "$sample")
+	java -jar /global/home/groups/fc_phylodiv/scripts/trimmomatic-0.30.jar PE -phred33 \
+	"$sample"*_1.fq.gz "$sample"*_2.fq.gz \
+	clean/"$samplebname"/"$samplebname"_1_paired.fastq \
+	clean/"$samplebname"/"$samplebname"_1_unpaired.fastq \
+	clean/"$samplebname"/"$samplebname"_2_paired.fastq \
+        clean/"$samplebname"/"$samplebname"_2_unpaired.fastq \
    LEADING:3 TRAILING:3 SLIDINGWINDOW:4:20 MINLEN:20
-done
+    done
