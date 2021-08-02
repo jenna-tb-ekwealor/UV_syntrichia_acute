@@ -1,0 +1,70 @@
+"transcript_id","cluster","names","cell_components_terms","mol_functions_terms","bio_process_terms","length"
+"Sc_g00254","I","Sc_g00254: splicing factor 3B subunit 3-like"," nucleus"," nucleic acid binding, protein binding","mRNA splicing, via spliceosome",1774
+"Sc_g02061","I","Sc_g02061: ACT domain-containing protein ACR3-like","","","",1834
+"Sc_g02351","I","Sc_g02351: BES1/BZR1 homolog protein 4-like isoform X1","","DNA-binding transcription factor activity, beta-amylase activity, amylopectin maltohydrolase activity"," regulation of transcription, DNA-templated, brassinosteroid mediated signaling pathway",1896
+"Sc_g03458","I","Sc_g03458: NAC domain-containing protein 86-like isoform X2"," nucleus, integral component of membrane","DNA binding"," regulation of transcription, DNA-templated",2313
+"Sc_g04886","I","Sc_g04886: phytochrome","","","phosphorelay signal transduction system, regulation of transcription, DNA-templated",1868
+"Sc_g04889","I","Sc_g04889: E3 ubiquitin-protein ligase At1g12760-like isoform X1","membrane","","",1756
+"Sc_g04973","I","Sc_g04973: phytochrome"," nucleus","phosphorelay sensor kinase activity, photoreceptor activity, protein homodimerization activity"," phosphorelay signal transduction system, regulation of transcription, DNA-templated, detection of visible light, red, far-red light phototransduction, protein-tetrapyrrole linkage, protein-chromophore linkage, signal transduction by protein phosphorylation",3908
+"Sc_g08043","I","Sc_g08043: uncharacterized protein LOC112277374 isoform X3","","","",4136
+"Sc_g10002","I","Sc_g10002: midasin-like isoform X2","","","",1963
+"Sc_g13286","I","Sc_g13286: histone deacetylase complex subunit SAP30L-like isoform X3","","protein binding","",2322
+"Sc_g14893","I","Sc_g14893: type I inositol polyphosphate 5-phosphatase 8-like isoform X1","","hydrolase activity"," phosphatidylinositol dephosphorylation",3014
+"Sc_g15730","I","Sc_g15730: uncharacterized protein LOC112288774","","","",2090
+"Sc_g15760","I","Sc_g15760: cyclic dof factor 4-like","","DNA binding"," regulation of transcription, DNA-templated",2396
+"Sc_g00568","II","Sc_g00568: putative 12-oxophytodienoate reductase 11","","FMN binding, oxidoreductase activity"," oxidation-reduction process",1723
+"Sc_g02570","II","Sc_g02570: GDSL esterase/lipase 5-like","membrane"," hydrolase activity, acting on ester bonds","",1586
+"Sc_g02748","II","Sc_g02748: serine/threonine-protein phosphatase PP-X isozyme 2","","phosphoprotein phosphatase activity"," protein dephosphorylation",1494
+"Sc_g02848","II","Sc_g02848: protein PROTON GRADIENT REGULATION 5, chloroplastic"," chloroplast","electron transfer activity"," response to high light intensity, photosynthetic electron transport in photosystem I",1021
+"Sc_g05340","II","Sc_g05340: uncharacterized protein LOC112290220","chloroplast, integral component of membrane","","",1041
+"Sc_g05389","II","Sc_g05389: microsomal glutathione S-transferase 3-like"," nuclear envelope, endoplasmic reticulum, integral component of membrane","glutathione transferase activity, glutathione peroxidase activity","",694
+"Sc_g06561","II","Sc_g06561: uncharacterized protein LOC112288045"," membrane","","metabolic process",1175
+"Sc_g06752","II","Sc_g06752: probable esterase KAI2",""," hydrolase activity","de-etiolation, response to karrikin",1176
+"Sc_g08183","II","Sc_g08183: non-specific lipid-transfer protein-like","","fatty acid binding"," systemic acquired resistance",855
+"Sc_g11555","II","Sc_g11555: caffeoylshikimate esterase-like","membrane","","",1740
+"Sc_g13104","II","Sc_g13104: GTP-binding protein SAR1A"," Golgi apparatus, COPII vesicle coat, endoplasmic reticulum exit site"," GTPase activity, GTP binding","regulation of COPII vesicle coating, positive regulation of protein exit from endoplasmic reticulum",982
+"Sc_g13667","II","Sc_g13667: glutaredoxin","cytoplasm"," electron transfer activity, protein disulfide oxidoreductase activity"," electron transport chain, cell redox homeostasis",657
+"Sc_g15997","II","Sc_g15997: protein DOG1-like 3",""," sequence-specific DNA binding","transcription, DNA-templated",1831
+"Sc_g00609","III","Sc_g00609: adenine phosphoribosyltransferase","","transferase activity, transferase activity, transferring glycosyl groups","",973
+"Sc_g04413","III","Sc_g04413: ribosomal protein S19 (chloroplast)"," ribosome, chloroplast, plastid, small ribosomal subunit","RNA binding, structural constituent of ribosome, rRNA binding"," translation",1928
+"Sc_g08899","III","Sc_g08899: protein EARLY-RESPONSIVE TO DEHYDRATION 7, chloroplastic-like isoform X2","","","",1880
+"Sc_g10410","III","Sc_g10410: ABA-inducible protein PHV A1-like","membrane, integral component of membrane","","",1149
+"Sc_g11011","III","Sc_g11011: coenzyme Q-binding protein COQ10 homolog, mitochondrial","","","",1206
+"Sc_g12657","III","Sc_g12657: uncharacterized protein LOC112283607","","","",887
+"Sc_g00809","IV","Sc_g00809: aquaporin PIP1-2"," vacuole, plasma membrane, plasmodesma, integral component of membrane","protein binding, water channel activity"," water transport, response to water deprivation, transmembrane transport",1400
+"Sc_g04152","IV","Sc_g04152: uncharacterized protein LOC112281148","integral component of membrane","","",727
+"Sc_g05890","IV","Sc_g05890: predicted protein","","iron ion binding","",775
+"Sc_g06863","IV","Sc_g06863: uncharacterized protein LOC112282501","","","",2237
+"Sc_g07148","IV","Sc_g07148: transcription factor PIF4"," nucleus","DNA-binding transcription activator activity, RNA polymerase II-specific, protein dimerization activity"," positive regulation of transcription by RNA polymerase II",2641
+"Sc_g07311","IV","Sc_g07311: lipid phosphate phosphatase 2-like"," integral component of membrane","phosphatidate phosphatase activity","",1484
+"Sc_g08728","IV","Sc_g08728: Core-2/I-branching beta-16-N-acetylglucosaminyltransferase family protein"," membrane","acetylglucosaminyltransferase activity","",1123
+"Sc_g10121","IV","Sc_g10121: Arsenical pump ATPase","plastoglobule","","",1657
+"Sc_g11375","IV","Sc_g11375: mevalonate kinase"," cytoplasm","ATP binding, kinase activity"," steroid biosynthetic process, phosphate-containing compound metabolic process, isoprenoid biosynthetic process",1733
+"Sc_g11391","IV","Sc_g11391: hybrid signal transduction histidine kinase M-like protein","","DNA binding, kinase activity"," phosphorylation",1566
+"Sc_g11927","IV","Sc_g11927: ---NA---","","","",596
+"Sc_g12651","IV","Sc_g12651: uncharacterized protein LOC112286145","","","",840
+"Sc_g13205","IV","Sc_g13205: ---NA---","","","",1069
+"Sc_g13403","IV","Sc_g13403: uncharacterized protein LOC112285453 isoform X2","","","",761
+"Sc_g13542","IV","Sc_g13542: late embryogenesis abundant protein","","","",892
+"Sc_g13657","IV","Sc_g13657: short-chain dehydrogenase TIC 32, chloroplastic-like","","oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"," oxidation-reduction process",1347
+"Sc_g13823","IV","Sc_g13823: protein cereblon-like isoform X1","","metal ion binding","",2653
+"Sc_g14304","IV","Sc_g14304: hypothetical protein MARPO_0010s0178","","iron ion binding, oxidoreductase activity"," oxidation-reduction process",1595
+"Sc_g14379","IV","Sc_g14379: poly [ADP-ribose] polymerase 3","","NAD+ ADP-ribosyltransferase activity"," protein ADP-ribosylation",2917
+"Sc_g00909","V","Sc_g00909: protein FORGETTER 1",""," metal ion binding","regulation of transcription, DNA-templated",4141
+"Sc_g03122","V","Sc_g03122: NAC domain-containing protein 86-like isoform X2"," nucleus, integral component of membrane","DNA binding"," regulation of transcription, DNA-templated",2357
+"Sc_g03123","V","Sc_g03123: alpha-glucan water dikinase 1, chloroplastic","","ATP binding, alpha-glucan, water dikinase activity"," phosphorylation",4712
+"Sc_g07164","V","Sc_g07164: cytoplasmic FMR1 interacting protein","","","",2594
+"Sc_g09051","V","Sc_g09051: protein NEOXANTHIN-DEFICIENT 1-like isoform X1","","lyase activity","",975
+"Sc_g10213","V","Sc_g10213: ABC1/COQ8 Serine/Threonine kinase","","protein kinase activity, ATP binding"," protein phosphorylation",2931
+"Sc_g13432","V","Sc_g13432: nuclear pore complex protein NUP62-like","nuclear pore, cytosol, integral component of membrane, nuclear periphery"," structural constituent of nuclear pore"," nucleocytoplasmic transport, negative regulation of auxin mediated signaling pathway",2731
+"Sc_g14586","V","Sc_g14586: pectinesterase 2-like"," cell wall","enzyme inhibitor activity, pectinesterase activity"," cell wall modification",1989
+"Sc_g15763","V","Sc_g15763: basic leucine zipper 61-like isoform X1","","DNA-binding transcription factor activity"," regulation of transcription, DNA-templated",2504
+"Sc_g16405","V","Sc_g16405: serine/threonine-protein kinase tricorner-like isoform X1"," intracellular","protein serine/threonine kinase activity, ATP binding"," peptidyl-serine phosphorylation, intracellular signal transduction",2701
+"Sc_g02101","VI","Sc_g02101: uncharacterized protein LOC112289292 isoform X3","integral component of membrane","","",1309
+"Sc_g03554","VI","Sc_g03554: putative CAAX amino terminal protease","membrane","","",1016
+"Sc_g05211","VI","Sc_g05211: treponemal membrane protein B-like isoform X1","","","",832
+"Sc_g08003","VI","Sc_g08003: uncharacterized protein LOC112293091","integral component of membrane","","",848
+"Sc_g09325","VI","Sc_g09325: chloroplastic early light-induced protein","integral component of membrane","","",908
+"Sc_g09695","VI","Sc_g09695: CASP-like protein 1C1","plasma membrane, integral component of membrane"," 4 iron, 4 sulfur cluster binding","",1057
+"Sc_g10759","VI","Sc_g10759: NPC intracellular cholesterol transporter 1-like"," integral component of membrane","lipid transporter activity","",4464
+"Sc_g11772","VI","Sc_g11772: monooxygenase family protein","integral component of membrane"," FAD binding","",1487
